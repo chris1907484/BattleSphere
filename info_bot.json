@@ -2,6 +2,6 @@
   "version": "5.18.0-32b53a4182d11f26a2b63339446af991273e10d70d9cf6aa13f64853b5a662af",
   "bot_app_version": false, 
   "bot_version": "1.0.0", 
-  "maintenance": true, 
+  "maintenance": false, 
   "is_coop_period": false 
 }
