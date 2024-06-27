@@ -1,7 +1,7 @@
 {
-  "version": "5.20.1-a63c392313888dbed27a8276a7bc1a232b3e5d6406f05919a03d61d238f0595d",
+  "version": "5.20.2-9546f583d6c9c70cad9c1aea7b70e317445a96d8f4af6df322449b5f80b8205c",
   "bot_app_version": false, 
   "bot_version": "1.5.1", 
-  "maintenance": true, 
+  "maintenance": false, 
   "is_coop_period": false 
 }
